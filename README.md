@@ -2,7 +2,7 @@
 
 Figure and analysis-pipeline code accompanying 
 
-**Peng, S., Levine, B., & Buchsbaum, B. R. (2026). Naturalistic recall preserves temporal specificity despite cortical feature reorganization. bioRxiv.**
+**Peng, S., Levine, B., & Buchsbaum, B. R. (2026). Naturalistic recall preserves temporal specificity despite cortical feature reorganization. *bioRxiv*. https://doi.org/10.64898/2026.11.03.763513**
 
 Rationale of the analysis choice can be found in the article.
 
